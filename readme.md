@@ -3,7 +3,7 @@ python-electron-boilerplate is a boilerplate framework allowing you to create a 
 ![Boilerplate](https://i.imgur.com/T7CyAk4.png)
 
 ## Running
-Run app.py in the backend, and then start electron in the root frontend directory.
+Run app.py in the backend, and then start electron in the frontend directory.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
