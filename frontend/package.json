@@ -1,0 +1,18 @@
+{
+  "name": "python-electron-boilerplate-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^11.1.1",
+    "jquery": "^3.5.1",
+    "time-stamp": "^2.2.0",
+    "zeromq": "^6.0.0-beta.6"
+  }
+}
