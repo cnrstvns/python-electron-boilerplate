@@ -6,7 +6,8 @@ let mainWindow;
 const createWindow = () => {
     mainWindow = new BrowserWindow({
         webPreferences: {
-            nodeIntegration: true
+            nodeIntegration: true,
+            contextIsolation: false
         },
         show: true,
         devTools: true
